@@ -7,7 +7,7 @@
 
 I'm mainly working on small side projects both frontend and backend applications.
 [![Kai's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaicoleridge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<br>
 [![Kai's github stats](https://github-readme-stats.vercel.app/api?username=kaicoleridge)](https://github.com/anuraghazra/github-readme-stats)
 
 

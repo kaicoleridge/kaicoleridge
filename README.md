@@ -1,8 +1,8 @@
 ### 👋 Hey there, I'm [Kai](https://kaicoleridge.com)
 
 ### I'm currently a Software Engineering Student, and iOS Developer from the UK.
-- Visit my [website](https://twitter.com/kaicoleridge)
-- Follow me on Twitter
+- Visit my [website](https://kaicoleridge.com)
+- Follow me on [Twitter](https://twitter.com/kaicoleridge)
 - Contact hello@kaicoleridge.com
 
 I'm mainly working on small side projects both frontend and backend applications.
@@ -10,4 +10,3 @@ I'm mainly working on small side projects both frontend and backend applications
 
 [![Kai's github stats](https://github-readme-stats.vercel.app/api?username=kaicoleridge)](https://github.com/anuraghazra/github-readme-stats)
 
-[kai]: 

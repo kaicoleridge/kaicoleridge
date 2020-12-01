@@ -6,7 +6,7 @@
 - Contact hello@kaicoleridge.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaicoleridge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kaicoleridge&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://kaicoleridge.com

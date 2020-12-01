@@ -3,7 +3,7 @@
 ### I'm currently a Software Engineering Student, and iOS Developer from the UK.
 - Visit my [website](https://kaicoleridge.com)
 - Follow me on [Twitter](https://twitter.com/kaicoleridge)
-- Contact hello@kaicoleridge.com?
+- Contact hello@kaicoleridge.com
 
 I'm mainly working on small side projects both frontend and backend applications.
 

@@ -7,6 +7,7 @@ Check out my current respositories [here](https://github.com/kaicoleridge?tab=re
 - Follow me on [Twitter](https://twitter.com/kaicoleridge)
 - Contact hello@kaicoleridge.com
 
+[![Spotify](https://novatorem-sigma-fawn.vercel.app/api/spotify)](https://open.spotify.com/user/kaicoleridge)
 
 
 

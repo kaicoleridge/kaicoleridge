@@ -5,8 +5,8 @@
 <li> 📱 I have a passion for iOS Development</li>
 <li> 🖥️ I'm studying Software Engineering</li>
 <li> 🕶️ I have an interest in AR/Virtual Reality</li>
-<li> 🧐 I'm currently working on my next iOS project</li>
+<li> 🛠️ I'm currently working on my next iOS project</li>
 
 <h4>Any questions? Get in contact</h4>
-<h5>kai@coleridge.me</h5>
+<h5>📧 kai@coleridge.me</h5>
 

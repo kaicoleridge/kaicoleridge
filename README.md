@@ -3,3 +3,6 @@
 <h4>🧐 A little insight on what I like doing...</h4>
 
 <li> 📱 I have a passion for iOS Development</li>
+<li> 🇬🇧 I'm from the UK</li>
+<li> 🖥️ I'm studying Software Engineering</li>
+

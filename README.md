@@ -2,7 +2,7 @@
 <h1 align="center">👋🏻 Hi there, I'm Kai </h1>
 <h4>🧐 A little insight on what I like doing...</h4>
 
-<li> 📱 I have a passion for iOS Development</li>
+<li> 📱  I have a passion for iOS Development</li>
 <li> 🖥️ I'm studying Software Engineering</li>
 <li> 🕶️ I have an interest in AR/Virtual Reality</li>
 <li> 🛠️ I'm currently working on my next iOS project</li>

@@ -9,7 +9,7 @@
 
 <hr>
 <h3>Get in contact</h3>
-<li>🔗 http://www.coleridge.me</li>
+<li>🔗 https://www.coleridge.me</li>
 <li>📧 kai@coleridge.me</li>
 <li>🐤 Twitter - @kaicoleridge</li>
 

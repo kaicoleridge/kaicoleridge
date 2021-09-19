@@ -6,7 +6,7 @@
 <li> 🖥️ I'm currently studying Software Engineering</li>
 <li> 🕶️ I have an interest in AR/Virtual Reality</li>
 <li> 🛠️ I'm currently working on my next iOS project</li>
-<li> 🔌 Learning ARDUINO electornic development aswell</li>
+<li> 🔌  Learning ARDUINO electornic development aswell</li>
 
 <hr>
 <h3>Get in contact</h3>

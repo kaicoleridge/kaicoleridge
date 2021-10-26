@@ -9,7 +9,7 @@
 
 <hr>
 <h3>Get in contact</h3>
-<li>🔗 https://www.coleridge.me (Unavaliable - in process of updating)</li>
+<li>🔗 https://www.coleridge.me (in process of updating)</li>
 <li>📧 kai@coleridge.me</li>
 <li>🐤 Twitter - @kaicoleridge</li>
 

@@ -7,7 +7,7 @@
 <li> 🛠️ I'm currently working on my next iOS project</li>
 <li> 🤖 I have a passion for Robotics/Drones </li>
 
-<hr>
+
 <h3>Get in contact</h3>
 <li>🔗 https://coleridge.me (in process of updating)</li>
 <li>📧 kai@coleridge.me</li>

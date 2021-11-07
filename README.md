@@ -13,4 +13,4 @@
 <li>📧 kai@coleridge.me</li>
 <li>🐤 Twitter - @kaicoleridge</li>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:id)](https://discord.com/users/328282806327181322)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/328282806327181322)](https://discord.com/users/328282806327181322)

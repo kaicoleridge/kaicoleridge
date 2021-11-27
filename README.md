@@ -4,7 +4,7 @@
 <h3>🧐 A little insight on what I like doing...</h3>
 
 <li> 📱  I have a passion for iOS Development</li>
-<li> 🖥️ I'm currently studying Software Engineering</li>
+<li> 🖥️ I'm currently studying a degree in Software Engineering</li>
 <li> 🛠️ I'm currently working on my next iOS project</li>
 <li> 🤖 I have a passion for Robotics/Drones </li>
 

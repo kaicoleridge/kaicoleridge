@@ -5,7 +5,6 @@
 
 <li> 📱  I have a passion for iOS Development</li>
 <li> 🖥️ I'm currently studying a Bachelors in Software Engineering</li>
-<li> 🛠️ I'm currently working on my next iOS project</li>
 <li> 🤖 I have a passion for Robotics/Drones/VR </li>
 
 

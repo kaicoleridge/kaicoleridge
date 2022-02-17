@@ -3,7 +3,7 @@
 <h1 align="center">👋🏻 Hi there, I'm Kai </h1>
 <h3>A little insight on what I like doing...</h3>
 
-<li> 📱  I have a passion for iOS Development</li>
+<li> 📱 I build iOS apps / Web Apps</li>
 <li> 🖥️ I'm currently studying a Bachelors in Software Engineering</li>
 <li> 🤖 I have a passion for Robotics/Drones/VR </li>
 

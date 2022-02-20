@@ -9,7 +9,6 @@
 
 
 <h3>Get in contact</h3>
-<li>🔗 https://coleridge.me (in process of updating)</li>
-<li>📧 kai@coleridge.me</li>
+<li>🔗 Personal Website - https://coleridge.me (in process of updating)</li>
+<li>📧 Contact - kai@coleridge.me</li>
 <li>🐤 Twitter - @kaicoleridge</li>
-

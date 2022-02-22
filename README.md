@@ -25,7 +25,7 @@ If you don't already already follow me on twitter, I suggest you should where I 
 Discord: [**coleridge.me/discord**](https://coleridge.me/discord) 
 
 
-## Where are your repositories?
+## ❗Where are your repositories?
 At the moment I've decided to private most of my repos, as I'm restructing my Github such as revisiting README's and re-writing them to be more detailed. Once done you'll be able to access my repositories publically. I'm working on some exciting projects which I'm looking forward to releasing in the near future.
 
 

@@ -1,5 +1,5 @@
 
-<h1>👋🏻 Hi there, I'm Kai </h1>
+<h2>👋🏻 Hi there, I'm Kai </h2>
 <h3>A little insight on what I like doing...</h3>
 
 <li> 📱 I build iOS apps / Web Apps</li>

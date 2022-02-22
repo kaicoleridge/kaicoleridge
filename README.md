@@ -15,6 +15,9 @@ I'm a self-taught iOS & Web Developer from the UK, alongside studying for my deg
 Check out my website It to learn a little more about me which you can't find here.\
 🔗 [**coleridge.me**](https://coleridge.me) (In the process of updating) 
 
+Come and Connect with me on Linkedin  \
+👨‍💻[**Kai Coleridge**](https://linkedin/in/kaicoleridge) 
+
 If you don't already already follow me on twitter, I suggest you should where I share my life. \
 🐤 [**@kaicoleridge**](https://twitter.com/kaicoleridge) 
 

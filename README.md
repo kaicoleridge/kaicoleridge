@@ -1,7 +1,7 @@
 ![Hi there I'm, KAI COLERIDGE](https://user-images.githubusercontent.com/51129378/155043466-355174b8-1239-446c-9baa-b030f3825fe7.png)
 
 ## 👋🏻 Hi there I'm, Kai 
-I'm a self-taught iOS & Web Developer from the UK, alongside studying for my degree in Software Engineering. I spend a lot of my time building stuff and learning new stuff. Find out more about me with the links below. 
+I'm a self-taught iOS & Web Developer from the UK, alongside studying for my degree in Software Engineering. I spend a lot of my time building stuff and learning new stuff.
 
  📱 <b>I build iOS apps / Web Apps <br> 
  🖥️ I'm currently studying a Bachelors in Software Engineering <br>

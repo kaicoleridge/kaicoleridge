@@ -1,4 +1,4 @@
-![Hi there I'm, KAI COLERIDGE](https://user-images.githubusercontent.com/51129378/155043198-fc2082b8-db1c-447c-928f-ba94347155b3.png)
+![Hi there I'm, KAI COLERIDGE](https://user-images.githubusercontent.com/51129378/155043466-355174b8-1239-446c-9baa-b030f3825fe7.png)
 
 <h2>👋🏻 Hi there, I'm Kai </h2>
 <h3>A little insight on what I like doing...</h3>

@@ -1,4 +1,5 @@
-![github cover (3)](https://user-images.githubusercontent.com/51129378/143685391-1bd98cb2-6e6d-4ab7-812c-f65a3ff8fd5f.png)
+![Hi there I'm, KAI COLERIDGE](https://user-images.githubusercontent.com/51129378/155041929-f3a1e5f4-ea93-4c26-8232-16ef678c5ccb.png)
+
 
 <h1 align="center">👋🏻 Hi there, I'm Kai </h1>
 <h3>A little insight on what I like doing...</h3>

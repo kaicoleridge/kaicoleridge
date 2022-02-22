@@ -3,10 +3,14 @@
 ## 👋🏻 Hi there I'm, Kai 
 I'm a self-taught iOS & Web Developer from the UK, alongside studying for my degree in Software Engineering. I spend a lot of my time building stuff and learning new stuff. Find out more about me with the links below. 
 
- 📱 I build iOS apps / Web Apps  
- 🖥️ I'm currently studying a Bachelors in Software Engineering  
- 🤖 I have a passion for Robotics/Drones/VR 
-
+ 📱 <b>I build iOS apps / Web Apps <br> 
+ 🖥️ I'm currently studying a Bachelors in Software Engineering <br>
+ 🤖 I have a passion for Robotics/Drones/VR <br>
+ 🖌️ Designing UI's <br>
+ </b>
+ <br>
+ And much much more...
+ 
 ## Get in contact
 Check out my website It to learn a little more about me which you can't find here.\
 🔗 [**coleridge.me**](https://coleridge.me) (In the process of updating) 

@@ -10,3 +10,6 @@
 <li>🔗 Personal Website - https://coleridge.me (in process of updating)</li>
 <li>📧 Contact - kai@coleridge.me</li>
 <li>🐤 Twitter - @kaicoleridge</li>
+<br>
+
+![](https://komarev.com/ghpvc/?username=kaicoleridge&color=blueviolet)

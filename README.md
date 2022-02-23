@@ -8,9 +8,6 @@ I'm a self-taught iOS & Web Developer from the UK, alongside studying for my deg
  🤖 I have a passion for Robotics/Drones/VR <br>
  🖌️ Designing UI's <br>
  </b>
- <br>
- And much much more...
- 
 ## Get in contact
 Check out my website It to learn a little more about me which you can't find here.\
 🔗 [**coleridge.me**](https://coleridge.me) (In the process of updating) 

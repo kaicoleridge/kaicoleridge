@@ -2,10 +2,10 @@
 
 Hey 👋 there, I'm Kai. I'm a self-taught iOS & Web Developer from the UK, alongside studying for my degree in Software Engineering. I spend a lot of my time building stuff and learning new stuff.
 
- 📱 <b>I like building iOS apps / Web Apps <br> 
- 🖥️ I'm currently studying a Bachelors in Software Engineering <br>
- 🤖 I have a passion for Robotics/Drones/VR <br>
- 🖌️ Designing UI's <br>
+ <b>I like building iOS apps / Web Apps <br> 
+I'm currently studying a Bachelors in Software Engineering <br>
+I have a passion for Robotics/Drones/VR <br>
+ Designing UI's <br>
  </b>
  
 ## Get in contact

@@ -1,3 +1,4 @@
+## ![](https://komarev.com/ghpvc/?username=kaicoleridge&color=blueviolet)
 <p align="center">
    <samp>
    👋 Hi! I'm Kai.
@@ -30,4 +31,4 @@ Want to get in touch with me? You can DM me on twitter at <a href="https://twitt
       <samp/>
  </p>
 
-   ![](https://komarev.com/ghpvc/?kaicoleridge&color=blueviolet)
+

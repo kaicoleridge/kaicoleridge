@@ -9,11 +9,11 @@
     <br>
     ----------------------------
     <br>
-    - Swift (iOS Development)
+    - Swift 
     <br>
-    - TypeScript (Web Development)
+    - TypeScript
     <br>
-    - React/NextJS (Web Development)
+    - React/NextJS 
     <br>
     <br>
        A little about me:

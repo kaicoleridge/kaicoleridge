@@ -1,5 +1,6 @@
-## ![](https://komarev.com/ghpvc/?username=kaicoleridge&color=blueviolet)
-<p align="center">
+![cover](https://user-images.githubusercontent.com/51129378/156064326-76e83f0b-9a36-424d-af4e-c55ef47da79b.png)
+
+<p>
    <samp>
    👋 Hi! I'm Kai.
       <br>
@@ -30,5 +31,7 @@
 Want to get in touch with me? You can DM me on twitter at <a href="https://twitter.com/kaicoleridge">@kaicoleridge</a>. Or you can drop me an email <a href="mailto:kai@coleridge.me">kai@coleridge.me</a> <br>and I'll get back you when possible.
       <samp/>
  </p>
+   
+   ## ![](https://komarev.com/ghpvc/?username=kaicoleridge&color=blueviolet)
 
 

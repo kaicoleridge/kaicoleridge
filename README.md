@@ -1,5 +1,5 @@
-![gtcover](https://user-images.githubusercontent.com/51129378/157899293-9d55853c-f356-4c24-adc8-7ce8d94a1417.png)
 
+![gtcover](https://user-images.githubusercontent.com/51129378/157900483-34def16f-0b1f-4784-a1a6-d5179af617b4.png)
 
 
 ###  👋 Hi there, I'm Kai.

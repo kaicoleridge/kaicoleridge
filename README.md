@@ -1,5 +1,6 @@
+![github cover](https://user-images.githubusercontent.com/51129378/157899030-48129f72-ffd1-4610-ac84-302d8f1fce66.png)
 
-![cover](https://user-images.githubusercontent.com/51129378/156064326-76e83f0b-9a36-424d-af4e-c55ef47da79b.png)
+
 ###  👋 Hi there, I'm Kai.
 <p>I'm a iOS/Web Developer who is currently a student studying Computer Science.</p>
 

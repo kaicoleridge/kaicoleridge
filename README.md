@@ -1,4 +1,5 @@
-![github cover](https://user-images.githubusercontent.com/51129378/157899030-48129f72-ffd1-4610-ac84-302d8f1fce66.png)
+![gtcover](https://user-images.githubusercontent.com/51129378/157899293-9d55853c-f356-4c24-adc8-7ce8d94a1417.png)
+
 
 
 ###  👋 Hi there, I'm Kai.

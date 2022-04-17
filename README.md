@@ -16,4 +16,4 @@
 
 <hr>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/NUM3806)](https://discord.com/users/NUM3806)
+

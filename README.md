@@ -14,3 +14,6 @@
 ![](https://komarev.com/ghpvc/?username=kaicoleridge&color=blueviolet)
 
 
+<hr>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/NUM#3806)](https://discord.com/users/NUM#3806)

@@ -9,7 +9,7 @@
 <p>You can find out more about me, my past projects etc over at my website > <a href="https://coleridge.dev"><b>Personal Site<b></a></p>
    
 ###  📭 Get in Contact
-   <p>Drop me a DM over at my <a href="https://twitter.com/kaicoleridge"</a>Twitter</a> or drop me an email at <a href="mailto:kai@coleridge.me">kai@coleridge.me</a> 
+   <p>Drop me a DM over at my <a href="https://twitter.com/kaicoleridge"</a>Twitter</a> or drop me an email at <a href="mailto:kai@coleridge.dev">kai@coleridge.dev</a> 
 
 ![](https://komarev.com/ghpvc/?username=kaicoleridge&color=blueviolet)
 

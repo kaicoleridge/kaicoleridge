@@ -10,6 +10,7 @@
    
 ###  📭 Get in Contact
    <p>Drop me a DM over at my <a href="https://twitter.com/kaicoleridge"</a>Twitter</a> or drop me an email at <a href="mailto:kai@coleridge.dev">kai@coleridge.dev</a> 
+   or alternativley you can join my <a href="https://discord.gg/B6ERp7ehDD">Discord</a>
 
 ![](https://komarev.com/ghpvc/?username=kaicoleridge&color=blueviolet)
 

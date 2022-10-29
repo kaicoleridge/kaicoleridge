@@ -1,16 +1,18 @@
 
-##  👋 Hi there, I'm Kai.
-<p>I'm a iOS/Web Developer who is currently a student studying Computer Science.</p>
+### Hi, I'm Kai 👋
 
-###  💻 Know more about me
-<p>You can find out more about me, my past projects etc over at my website > <a href="https://coleridge.dev"><b>Personal Site<b></a></p>
-   
-###  📭 Get in Contact
-   <p>Drop me a DM over at my <a href="https://twitter.com/kaicoleridge"</a>Twitter</a> or drop me an email at <a href="mailto:kai@coleridge.dev">kai@coleridge.dev</a> 
-   or alternativley you can join my <a href="https://discord.gg/B6ERp7ehDD">Discord</a>
+I'm a self-taught full stack developer from the UK. Currently in my final year at university pursing a degree in Computer Science. Currently specialise in Web Development and moving across to mobile application. I have a passion for development design strongly and those are my two principles I stand by always. 
 
-![](https://komarev.com/ghpvc/?username=kaicoleridge&color=blueviolet)
+##### Some personal projects I'm currently on and maintaining
+- [VecTor](https://github.com/kaicoleridge/vector) 
+- [Portfolio Site](https://coleridge.dev)
 
+##### Where you can get see me elsewhere
+* 🎮 Inside my [Discord Server](https://discord.gg/B6ERp7ehDD)
+* 🐦 Follow me on [Twitter](https://twitter.com/kaicoleridge)
+* 📸 Follow me on [Instagram](https://instagram.com/kaicoleridge)
+* 🧑‍💼 Connect with me on [Linkedin](https://www.linkedin.com/in/kaicoleridge/)
+* 💻 Over on my [Website](https://coleridge.dev)
 
 <hr>
 

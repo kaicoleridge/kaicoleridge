@@ -6,8 +6,8 @@ I'm a self-taught full stack developer from the UK. Currently in my final year a
 In my free time I usually like to build side projects. A few can be found:
  
 ##### Some personal projects I'm currently on and maintaining
-- [VecTor](https://github.com/kaicoleridge/vector) 
-- [Portfolio Site](https://coleridge.dev)
+* [VecTor](https://github.com/kaicoleridge/vector) 
+* [Portfolio Site](https://coleridge.dev)
 
 ##### Where you can find more about me.
 * 🎮 Inside my [Discord Server](https://discord.gg/B6ERp7ehDD)

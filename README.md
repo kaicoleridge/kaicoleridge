@@ -7,7 +7,7 @@ I'm a self-taught full stack developer from the UK. Currently in my final year a
 - [VecTor](https://github.com/kaicoleridge/vector) 
 - [Portfolio Site](https://coleridge.dev)
 
-##### Where you can get see me elsewhere
+##### Where you can find more about me.
 * 🎮 Inside my [Discord Server](https://discord.gg/B6ERp7ehDD)
 * 🐦 Follow me on [Twitter](https://twitter.com/kaicoleridge)
 * 📸 Follow me on [Instagram](https://instagram.com/kaicoleridge)

@@ -7,6 +7,7 @@ In my free time I usually like to build side projects. A few can be found:
  
 ##### Some personal projects I'm currently on and maintaining
 * [VecTor](https://github.com/kaicoleridge/vector) 
+* [DoIt](https://github.com/kaicoleridge/doit) 
 * [Portfolio Site](https://coleridge.dev)
 
 ##### Where you can find more about me.

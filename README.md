@@ -5,7 +5,7 @@ My current tech stack:
 
 frontend: react/nextjs, styled-components
 
-backend: nodejs, express, AWS
+backend: node, express, docker, aws
 
 languages: javascript/typescript, swift, java
 ```

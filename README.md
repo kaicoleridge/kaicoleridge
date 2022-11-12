@@ -1,5 +1,5 @@
 
-### Hi, I'm Kai 👋
+### Hi, I'm Kai 
 
 I'm a self-taught full stack developer from the UK. Currently in my final year at university pursing a degree in Computer Science. Currently specialise in Web Development, but branching out into mobile application development. I enjoy working with technologies such as (JavaScript, React). 
 

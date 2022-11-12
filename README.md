@@ -5,7 +5,7 @@
 
 frontend: react/nextjs, styled-components
 
-backend: node, express, docker, aws
+backend: node/cloudflare, express, docker, aws
 
 languages: javascript/typescript, swift, java
 ```

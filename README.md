@@ -3,7 +3,7 @@
 ```yaml
 💻 My current tech stack:
 
-frontend: react/nextjs, styled-components
+frontend: react/nextjs, styled-components, tailwindcss
 
 backend: node/express, cloudflare, docker, aws
 

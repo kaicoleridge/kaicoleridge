@@ -10,4 +10,4 @@ backend: node/express, cloudflare, docker, aws
 
 languages: typescript, swift, java
 ```
-![](https://komarev.com/ghpvc/?username=kaicoleridge&color=ff69b4)
+![Github Profile View Counter](https://komarev.com/ghpvc/?username=kaicoleridge&color=blueviolet)

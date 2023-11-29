@@ -4,7 +4,7 @@
 ```js
 const myProfile =  {
    name: "Kai Coleridge",
-   age: "21",
+   age: "22",
    major: "Computer Science".
    languages: "JS/Typescript", "Swift".
    hobbies: [

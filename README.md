@@ -1,7 +1,7 @@
 
-![Copy of coleridge me](https://user-images.githubusercontent.com/51129378/216714970-7b944669-8e8b-4767-9539-747ed5bd982b.png)
+![banner](https://github.com/kaicoleridge/kaicoleridge/assets/51129378/74e0662b-1c84-4f7d-a2e8-ade70f39f46f)
 
-```js
+```ts
 const myProfile =  {
    name: "Kai Coleridge",
    age: "23",
